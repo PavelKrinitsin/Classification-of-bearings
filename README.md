@@ -12,8 +12,7 @@ ASSESSMENT OF BEARING LUBRICATION CONDITION WITH THE USE OF NEURAL NETWORK CLASS
 The purpose of this work is to explore a method for solving the problem of reduced service life of rolling bearings installed on industrial equipment due to their poor lubrication during operation. 
 This work examines a method for classifying the conditions of bearings depending on their diagnostic parameters: various indicators of vibration and temperature. Classification is carried out using traditional machine learning methods: KNN, RandomForestClassifier, SVM methods with the aim of identifying the best model accuracy indicators. During the research, an analysis of the impact of each diagnostic parameter – features on the performance indicators of the classification model algorithms was performed. The obtained model allows for a quality, 98% accuracy, assessment of the condition of rolling bearing lubrication and provides recommendations for timely maintenance of equipment.
 
-__
-
+___
 ## Documentation
 
 Documentation Here
