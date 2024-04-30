@@ -1,7 +1,7 @@
 # Classification-of-bearings
 ASSESSMENT OF BEARING LUBRICATION CONDITION WITH THE USE OF NEURAL NETWORK CLASSIFICATION ALGORITHMS
 <p align="center">
-      <img src="https://drive.google.com/file/d/1T8kza2Bfo89bq3j3fjwRz9FQyli6Bvyg/view?usp=drive_link" width="726">
+      <img src="[https://github.com/PavelKrinitsin/Classification-of-bearings/blob/main/1.jpg)" width="726">
 </p>
 
 <p align="center">
