@@ -23,3 +23,9 @@ ___
 All three models showed satisfactory training results and can be applied as a practical model for classifying bearings based on the condition of their lubrication:
 1. The RandomForestClassifier model demonstrated the highest classification results on both test and training data, with an error rate on the test data not exceeding 2%.
 2. The most significant feature for predicting the target variable "Bearing State" in all three models was the V-rms feature - a measure of vibration velocity (m/s).
+
+
+___
+
+## Tags
+Python, Machine Learning, Classification tasks
